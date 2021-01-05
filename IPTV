@@ -1,0 +1,176 @@
+#EXTM3U
+#EXTINF:0,http://94.100.31.242:8183/hls/TopChannel/index.m3u8
+http://94.100.31.242:8183/live/klansd.m3u8
+#EXTINF:0,http://94.100.31.242:8183/live/klansd.m3u8
+http://94.100.31.242:8183/hls/3128/index.m3u8
+#EXTINF:0,http://94.100.31.242:8183/live/bangbang.m3u8
+http://94.100.31.242:8183/hls/325/index.m3u8
+#EXTINF:0,http://94.100.31.242:8183/hls/xz3123/index.m3u8
+http://94.100.31.242:8183/hls/xz3128/index.m3u8
+#EXTINF:0,http://94.100.31.242:8183/hls/xz3126/index.m3u8
+http://94.100.31.242:8183/hls/film1/index.m3u8
+#EXTINF:0,http://94.100.31.242:8183/hls/film3/index.m3u8
+http://94.100.31.242:8183/hls/tiptv/index.m3u8
+#EXTINF:0,http://94.100.31.242:8183/hls/tringtring/index.m3u8
+http://94.100.31.242:8183/hls/xz3125/index.m3u8
+#EXTINF:0,http://94.100.31.242:8183/hls/xz3126/index.m3u8
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/rtv21
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/rtk
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/ktv
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringtring
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tiptv
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/alsatm
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/smile
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/3plus
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringlife
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/21plus
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/21popullore
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringjolly
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/smile
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/living
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringshqip
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringsuper
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringmax
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringfantasy
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringcomedy
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringlife
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringhistory
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringworld
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tringplanet
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/visionplu
+http://njoni:fbq00wlkfth9gyk@185.75.56.95/tv1
+#EXTINF:0,http://njoni:fbq00wlkfth9gyk@185.75.56.95/tiptv
+
+
+
+#EXTM3U
+#EXTINF:0,????
+http://37.187.171.94:4033/udp/239.0.0.102:12345
+#EXTINF:0,21 HD
+http://37.187.171.94:4033/udp/239.0.0.149:12345
+#EXTINF:0,21 HD Plus
+http://37.187.171.94:4033/udp/239.0.0.118:12345
+#EXTINF:0,A1
+http://37.187.171.94:4033/udp/239.0.0.187:12345
+#EXTINF:0,ABC News
+http://37.187.171.94:4033/udp/239.0.0.130:12345
+#EXTINF:0,Agon
+http://37.187.171.94:4033/udp/239.0.0.120:12345
+#EXTINF:0,Alsat M
+http://37.187.171.94:4033/udp/239.0.0.159:12345
+#EXTINF:0,Baby
+http://37.187.171.94:4033/udp/239.0.0.192:12345
+#EXTINF:0,Bang Bang
+http://37.187.171.94:4033/udp/239.0.0.125:12345
+#EXTINF:0,BBF
+http://37.187.171.94:4033/udp/239.0.0.115:12345
+#EXTINF:0,Big Brother 1
+http://37.187.171.94:4033/udp/239.0.0.160:12345
+#EXTINF:0,Click Tv
+http://37.187.171.94:4033/udp/239.0.0.171:12345
+#EXTINF:0,Cufo
+http://37.187.171.94:4033/udp/239.0.0.126:12345
+#EXTINF:0,Exp Histori
+http://37.187.171.94:4033/udp/239.0.0.135:12345
+#EXTINF:0,Exp Natyra
+http://37.187.171.94:4033/udp/239.0.0.133:12345
+#EXTINF:0,Exp Shkence
+http://37.187.171.94:4033/udp/239.0.0.134:12345
+#EXTINF:0,Film Aksion
+http://37.187.171.94:4033/udp/239.0.0.105:12345
+#EXTINF:0,Film Autor
+http://37.187.171.94:4033/udp/239.0.0.142:12345
+#EXTINF:0,Film Drame
+http://37.187.171.94:4033/udp/239.0.0.139:12345
+#EXTINF:0,Film Dy HD
+http://37.187.171.94:4033/udp/239.0.0.158:12345
+#EXTINF:0,Film Hits
+http://37.187.171.94:4033/udp/239.0.0.138:12345
+#EXTINF:0,Film Komedi
+http://37.187.171.94:4033/udp/239.0.0.140:12345
+#EXTINF:0,Film Nje HD
+http://37.187.171.94:4033/udp/239.0.0.157:12345
+#EXTINF:0,Film Thriller
+http://37.187.171.94:4033/udp/239.0.0.141:12345
+#EXTINF:0,First Channel
+http://37.187.171.94:4033/udp/239.0.0.185:12345
+#EXTINF:0,Folk Plus
+http://37.187.171.94:4033/udp/239.0.0.164:12345
+#EXTINF:0,Fox Crime
+http://37.187.171.94:4033/udp/239.0.0.174:12345
+#EXTINF:0,Fox Life
+http://37.187.171.94:4033/udp/239.0.0.175:12345
+#EXTINF:0,Junior
+http://37.187.171.94:4033/udp/239.0.0.166:12345
+#EXTINF:0,Klan
+http://37.187.171.94:4033/udp/239.0.0.123:12345
+#EXTINF:0,Klan Kosova
+http://37.187.171.94:4033/udp/239.0.0.124:12345
+#EXTINF:0,KTV
+http://37.187.171.94:4033/udp/239.0.0.103:12345
+#EXTINF:0,Living HD
+http://37.187.171.94:4033/udp/239.0.0.178:12345
+#EXTINF:0,Motors
+http://37.187.171.94:4033/udp/239.0.0.179:12345
+#EXTINF:0,My Music
+http://37.187.171.94:4033/udp/239.0.0.156:12345
+#EXTINF:0,Nat Geo Channel
+http://37.187.171.94:4033/udp/239.0.0.180:12345
+#EXTINF:0,Nat Geo Channel HD
+http://37.187.171.94:4033/udp/239.0.0.193:12345
+#EXTINF:0,New Channel
+http://37.187.171.94:4033/udp/239.0.0.176:12345
+#EXTINF:0,New Channel
+http://37.187.171.94:4033/udp/239.0.0.184:12345
+#EXTINF:0,RTK 1
+http://37.187.171.94:4033/udp/239.0.0.101:12345
+#EXTINF:0,RTK 3
+http://37.187.171.94:4033/udp/239.0.0.121:12345
+#EXTINF:0,Smile
+http://37.187.171.94:4033/udp/239.0.0.165:12345
+#EXTINF:0,SS Kosova 1 HD
+http://37.187.171.94:4033/udp/239.0.0.147:12345
+#EXTINF:0,STV
+http://37.187.171.94:4033/udp/239.0.0.186:12345
+#EXTINF:0,Super Sport 2 HD
+http://37.187.171.94:4033/udp/239.0.0.144:12345
+#EXTINF:0,Super Sport 3 HD
+http://37.187.171.94:4033/udp/239.0.0.145:12345
+#EXTINF:0,Super Sport News
+http://37.187.171.94:4033/udp/239.0.0.143:12345
+#EXTINF:0,Tele Sport
+http://37.187.171.94:4033/udp/239.0.0.168:12345
+#EXTINF:0,Tirana Tv
+http://37.187.171.94:4033/udp/239.0.0.189:12345
+#EXTINF:0,Tirana Tv
+http://37.187.171.94:4033/udp/239.0.0.182:12345
+#EXTINF:0,Top Channel HD
+http://37.187.171.94:4033/udp/239.0.0.108:12345
+#EXTINF:0,Top News
+http://37.187.171.94:4033/udp/239.0.0.131:12345
+#EXTINF:0,Tring 3
+http://37.187.171.94:4033/udp/239.0.0.170:12345
+#EXTINF:0,Tring Comedy
+http://37.187.171.94:4033/udp/239.0.0.128:12345
+#EXTINF:0,Tring Jolly HD
+http://37.187.171.94:4033/udp/239.0.0.177:12345
+#EXTINF:0,Tring Life
+http://37.187.171.94:4033/udp/239.0.0.153:12345
+#EXTINF:0,Tring Max
+http://37.187.171.94:4033/udp/239.0.0.151:12345
+#EXTINF:0,Tring Planet
+http://37.187.171.94:4033/udp/239.0.0.181:12345
+#EXTINF:0,Tring Shqip
+http://37.187.171.94:4033/udp/239.0.0.152:12345
+#EXTINF:0,Tring Sport
+http://37.187.171.94:4033/udp/239.0.0.162:12345
+#EXTINF:0,Tring Super
+http://37.187.171.94:4033/udp/239.0.0.150:12345
+#EXTINF:0,Tring Tring
+http://37.187.171.94:4033/udp/239.0.0.127:12345
+#EXTINF:0,Tring World
+http://37.187.171.94:4033/udp/239.0.0.183:12345
+#EXTINF:0,TVSH
+http://37.187.171.94:4033/udp/239.0.0.122:12345
+#EXTINF:0,Vizion Plus
+http://37.187.171.94:4033/udp/239.0.0.167:12345
