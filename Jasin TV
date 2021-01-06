@@ -1,0 +1,1217 @@
+#EXTM3U
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/Wrm5Vh0.png",** TV SHQIP **
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uYZUDPC.png",al: ORA
+https://tv.oranews.tv/live/ora/index.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uYZUDPC.png",al: ORANEWS
+https://tv.oranews.tv/live/oranews/index.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/l8Z9BRE.png",al: PEACE
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/wuGMeRX.png",al: RROKUM
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/O7QHVkF.png",al: RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/uE3uH28.png",sr: RTK 2
+http://176.31.74.161:8081/live/rtk2/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/ZULiwwE.png",al: RTK 3
+http://176.31.74.161:8081/live/rtk3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/H3guNId.png",al: RTK 4
+http://176.31.74.161:8081/live/rtk4/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/jhlcFQh.png",al: OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/bDG8KXe.png",al: PENDIMI
+http://live.rtvpendimi.com:8081/hls/RTVPendimi/index.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/eM4yuCi.png",al: APOLLON
+http://185.80.224.14:1935/live/smil:web.smil/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/gRvEH4v.png",al: ALBUK
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/cCEJuq5.png",al: KOHA (vlc)
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/0qVIOSH.png",al: SYRI (vlc)
+rtmp://37.26.69.49:80/live/syri
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/6I6ODqM.png",al: VOA (18:00)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc4@320296/master.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/VZvOidh.png",al: ILIRIDA 
+http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/kH4FF2w.png", EURO-AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/ITjxSLj.png",RTSH HD
+http://79.106.48.2/live/rtsh_1ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/xWigxIX.png",RTSH 2
+http://79.106.48.2/live/rtsh_2ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/p1DDl1j.png",RTSH 3
+http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/IN5rJ2J.png",RTSH Plus
+http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/UHG6Rve.png",RTSH Shqip
+http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/yQCzUi4.png",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p2/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/yQCzUi4.png",RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:0 group-title="ALB IPTV" tvg-logo="https://i.imgur.com/O7QHVkF.png",al: RTK 1
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/M0Te2VJ.png", ** RADIO SHQIP **
+http://93.190.141.15:8206/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/29x885V.png",RADIO CLUB FM
+http://93.190.141.15:7166/;stream.mp3?_=1
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/deFQ72Q.png",RADIO KISS FM
+http://80.90.87.231:8000/stream
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/zFY0HeQ.png",RADIO NRG
+http://ice31.securenetsystems.net:80/AL09
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/yZxO1f6.png",RADIO SHQIP
+http://s2.voscast.com:8826/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/b06eDPs.png",RADIO DUKAGJINI
+http://s6.voscast.com:8824/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/hSeEy0d.png",RADIO DARDANIA
+http://s2.voscast.com:8824/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/idU7S2P.png",RADIO LOVE FM
+http://s2.voscast.com:8828/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/YaHPYfG.png",RADIO GLAM
+http://glam.itprishtina.com:8000/glam
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/ZAwFfbn.png",RADIO GJAKOVA
+http://37.26.69.30:8080/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/nMmY0gk.png",RADIO FONTANA
+http://streaming.jusahost.com:8010/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/aKRFhal.png",RADIO GJILAN
+http://radio.1dhe1.com:9400/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/zOVlIN0.png",RADIO LLAPI
+http://radio.1dhe1.com:8555/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/VazkiYT.png",RADIO PLUS
+http://192.240.97.68:8090/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/1vdaXLG.png",RADIO VALA
+http://ca3.rcast.net:8024/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/vomJrM0.png",RADIO VATI
+http://radiostream.neotel.mk:8000/radiovati
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/8rLJtEH.png",RADIO FAMA
+http://fama.radiofama.org:7000/;&type=m3u_plus&output=mp3
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/zvmOAnb.png",RADIO RKL
+http://quasar.shoutca.st:8018/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/dQf20DR.png",RADIO TIRANA
+http://149.202.220.47:8888/radiotirana1
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/YbBZv2L.png",RADIO KOSOVA
+http://stream1.rtkit.com:1935/radiostream/rk1.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/aXD6k7P.png",RADIO 21 (iOS)
+http://84.22.44.247:1935/live/radio.stream/playlist.m3u8
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/YvgvJ31.png",RADIO MERGIMI
+http://144.76.33.185:8000/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/ICFSUzu.png",RADIO EMIGRANTI
+http://www.radioemigranti.com:8000/radioauto48
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/2fVctiY.png",RADIO PERENDIMI
+http://151.80.44.127:8676/live/;&amp;type=mp3
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/LYxo9u3.png",RADIO PENDIMI
+http://radio-pendimi.com:8014/;&amp;type=mp3
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/xnmDJXS.png",RADIO ZiKD
+http://174.36.206.197:8038/
+#EXTINF:0 group-title="ALB RADIO" tvg-logo="https://i.imgur.com/4FlyUWw.png",RADIO MARIMANGA
+http://91.82.85.71:9084/
+
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 183
+https://www.youtube.com/watch?v=bRngZBBjTa4
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 182
+https://www.youtube.com/watch?v=4n0GxqOh_fA
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 181
+https://www.youtube.com/watch?v=mdCR-7zyidA
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 180
+https://www.youtube.com/watch?v=5W8X4aYTbPY
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 179
+https://www.youtube.com/watch?v=CvNwb2vFvOA
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 178
+https://www.youtube.com/watch?v=xnatk4WvXDM
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 177
+https://www.youtube.com/watch?v=G6W0_q9vZCw
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 176
+https://www.youtube.com/watch?v=hnGw9YVMSMg
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 175
+https://www.youtube.com/watch?v=r6eLWcSEuTU
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 174
+https://www.youtube.com/watch?v=QuMlRUQXYy4
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 173
+https://www.youtube.com/watch?v=Z2K-A_x-UX4
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 172
+https://www.youtube.com/watch?v=EN813haPR_k
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 171
+https://www.youtube.com/watch?v=2MQkNfjmrWQ
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 170
+https://www.youtube.com/watch?v=9FH8y49qaG0
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 169
+https://www.youtube.com/watch?v=B7Dt9d-RMS0
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 168
+https://www.youtube.com/watch?v=aP4ID6_lPyo
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 167
+https://www.youtube.com/watch?v=y2HPv9T0L3s
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png", O`SA MIRË 166
+https://www.youtube.com/watch?v=RqFtMYeooyY
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 165
+https://www.youtube.com/watch?v=vrli-nB4o1I
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 164
+https://www.youtube.com/watch?v=VLnFnnY-9N0&t=1s
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 163
+https://www.youtube.com/watch?v=gRZemoYW-a4
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 162
+https://www.youtube.com/watch?v=7hOPcftRhoY
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 161
+https://www.youtube.com/watch?v=hxUvoNvjBJE
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 160
+https://www.youtube.com/watch?v=eZrTGBwDBtk
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 159
+https://www.youtube.com/watch?v=u7cntm9Ip5o
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 158
+https://www.youtube.com/watch?v=kp4JsN9Pxdw
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 157
+https://www.youtube.com/watch?v=mYim-_iFWPM
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 156
+https://www.youtube.com/watch?v=gwSSgDsyapg
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 155
+https://www.youtube.com/watch?v=kDPfC_fsOBw
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 154
+https://www.youtube.com/watch?v=WLyP-gF_0bc
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 153
+https://www.youtube.com/watch?v=IaUK0ms01LU
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 152
+https://www.youtube.com/watch?v=PuaAo2uDfrU
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 151
+https://www.youtube.com/watch?v=GVxOHH_KjDA
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 150
+https://www.youtube.com/watch?v=-uJ9rLzYP-w
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 149
+https://www.youtube.com/watch?v=VOm0IdTWoIQ
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 148
+https://www.youtube.com/watch?v=xwJcxR9_LSo
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 147
+https://www.youtube.com/watch?v=AbQpEaJeRnw
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 146
+https://www.youtube.com/watch?v=lIAdnfA6XJM
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 145
+https://www.youtube.com/watch?v=Wo93jrNy_dE
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 144
+https://www.youtube.com/watch?v=KUmIKpfdlS4
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 143
+https://www.youtube.com/watch?v=P7bCWfLEs7w
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 142
+https://www.youtube.com/watch?v=9Jc6Ml3BoME
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 141
+https://www.youtube.com/watch?v=kNhqIp66wvA
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 140
+https://www.youtube.com/watch?v=HibBsV9FPo8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 139
+https://www.youtube.com/watch?v=EuUjTnv3oqU
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 138
+https://www.youtube.com/watch?v=m6KlDvI_HA8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 137
+https://www.youtube.com/watch?v=tG4AUQhCQ2Y
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 136
+https://www.youtube.com/watch?v=rhX2zYPper8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 135
+https://www.youtube.com/watch?v=ZIRVA_o1Q3k
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 134
+https://www.youtube.com/watch?v=_guoVTcLo9E
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 133
+https://www.youtube.com/watch?v=q1BiO6Ig8So
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 132
+https://www.youtube.com/watch?v=WddA9-GTzz8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 131
+https://www.youtube.com/watch?v=PrTbNxkt0Ec
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 130
+https://www.youtube.com/watch?v=nlsCFbQiGhg
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 129
+https://www.youtube.com/watch?v=CKf0mMSoiD8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 128
+https://www.youtube.com/watch?v=xyaM1gKOUJM
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 127
+https://www.youtube.com/watch?v=QDJFdROLMwU
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 126
+https://www.youtube.com/watch?v=ZIiSfidtkbM
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 125
+https://www.youtube.com/watch?v=Uq4I5RXbQZg
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 124
+https://www.youtube.com/watch?v=E1cbZUVsMkQ
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 123
+https://www.youtube.com/watch?v=n1Cof9NahiM
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 122
+https://www.youtube.com/watch?v=Mk4BdOWO7J8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 121
+https://www.youtube.com/watch?v=iUzCd8ZmX8k
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 120
+https://www.youtube.com/watch?v=zrimH7_2_8E
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 119
+https://www.youtube.com/watch?v=5htg81aGO1w
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 118
+https://www.youtube.com/watch?v=8cWKRZXaWo0
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 117
+https://www.youtube.com/watch?v=YMf97kBw_BA
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 116
+https://www.youtube.com/watch?v=E5QmDgY4Trs
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 115
+https://www.youtube.com/watch?v=gIvko4KknH4
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 114
+https://www.youtube.com/watch?v=ZpnAbX7S41g
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 113
+https://www.youtube.com/watch?v=oH6unLBRHzE
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 112
+https://www.youtube.com/watch?v=ZCr5Klsw_Rg
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 111
+https://www.youtube.com/watch?v=rFHqgP1vLpE
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 110
+https://www.youtube.com/watch?v=t02rjEZxnAU
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 109
+https://www.youtube.com/watch?v=U2NsykZaf0Q
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 108
+https://www.youtube.com/watch?v=sDcKr6ApWBE
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 107
+https://www.youtube.com/watch?v=8AU4s8ZYqWs
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 106
+https://www.youtube.com/watch?v=fs2k3TxHQiw
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 105
+https://www.youtube.com/watch?v=kZzGDiJSBcQ
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 104
+https://www.youtube.com/watch?v=NUVQokom6uE
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 103
+https://www.youtube.com/watch?v=Qz-xjd44eIc
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 102
+https://www.youtube.com/watch?v=_alAOmSZbBQ
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 101
+https://www.youtube.com/watch?v=zDEpD2p9H-A
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 100
+https://www.youtube.com/watch?v=YJ6kaCP-WQk
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 099
+https://www.youtube.com/watch?v=scFznklDVmA
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 098
+https://www.youtube.com/watch?v=XmtbZoAZ_xc
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 097
+https://www.youtube.com/watch?v=IepL1GtpTU8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 096
+https://www.youtube.com/watch?v=fObc4YGXpAk
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 095
+https://www.youtube.com/watch?v=n33J2C4HcM8
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 094
+https://www.youtube.com/watch?v=wt1iN7aTdy4
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 095
+https://www.youtube.com/watch?v=PLtMOkh7cHw
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 093
+https://www.youtube.com/watch?v=5bDvUTH0_wo
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 092
+https://www.youtube.com/watch?v=mzvrgQoQs1k
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 091
+https://www.youtube.com/watch?v=68BjE9Hp1DI
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 090
+https://www.youtube.com/watch?v=K8L6BmGmaoU
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 089
+https://www.youtube.com/watch?v=1kxWh1UMdi0
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 088
+https://www.youtube.com/watch?v=-vGKfiyzxrw
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 087
+https://www.youtube.com/watch?v=8VQU7Tb_85g
+#EXTINF:0 group-title="ALB VIDEO 1" tvg-logo="https://i.imgur.com/IAp0ioe.png",O`SA MIRË 086
+https://www.youtube.com/watch?v=k7jJmJZTK8o
+
+
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 23/6
+https://www.youtube.com/watch?v=aNTQZqtgSys
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 22/6
+https://www.youtube.com/watch?v=y61ZeLohH4E
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 21/6
+https://www.youtube.com/watch?v=rMoYBu1F8BE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 20/6
+https://www.youtube.com/watch?v=X0r0AUNzFCs
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 19/6
+https://www.youtube.com/watch?v=TCqjhhtwvqI
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 18/6
+https://www.youtube.com/watch?v=JSa6tcdALoE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 17/6
+https://www.youtube.com/watch?v=QK0Y66W9iLc
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 16/6
+https://www.youtube.com/watch?v=yWxA5UQgYWM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 15/6
+https://www.youtube.com/watch?v=XiTnXPLdRus
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 14/6
+https://www.youtube.com/watch?v=49EERGHN01E
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 13/6
+https://www.youtube.com/watch?v=96HXvWC_i0A
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 12/6
+https://www.youtube.com/watch?v=ZwZw4WzCLvY
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 11/6
+https://www.youtube.com/watch?v=U9mHFZgqw6k
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 10/6
+https://www.youtube.com/watch?v=X_tHrwV_Loc
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH FESTIV/6
+https://www.youtube.com/watch?v=WQzT4yf7tTo
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 9/6
+https://www.youtube.com/watch?v=CW7Z6mt4XEA
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 8/6
+https://www.youtube.com/watch?v=R6uZAyahSw0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 7/6
+https://www.youtube.com/watch?v=77z4oa1__UM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 6/6
+https://www.youtube.com/watch?v=yYg5N9NpIcM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 5/6
+https://www.youtube.com/watch?v=ee3K74gFhgc
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 4/6
+https://www.youtube.com/watch?v=Dko-whw7Bio
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 3/6
+https://www.youtube.com/watch?v=dNBv9uMtwHo
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 2/6
+https://www.youtube.com/watch?v=HM4T6Kbja-g
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 1/6
+https://www.youtube.com/watch?v=_f5T9n0yThE
+
+
+
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 36/5
+https://www.youtube.com/watch?v=T_sM4thBB_Y
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 35/5
+https://www.youtube.com/watch?v=cWuegELKdO4
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 34/5
+https://www.youtube.com/watch?v=FU9Q-51vWGQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 33/5
+https://www.youtube.com/watch?v=V5DX2fshyR0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 32/5
+https://www.youtube.com/watch?v=nX5mPPXsR7c
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 31/5
+https://www.youtube.com/watch?v=nGo5E5toHfU
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 30/5
+https://www.youtube.com/watch?v=j3DB9b56aeM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 29/5
+https://www.youtube.com/watch?v=dUFpmWXkH8s
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 28/5
+https://www.youtube.com/watch?v=9KE1_aPt-4Y
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 27/5
+https://www.youtube.com/watch?v=QHy74FPsuyQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 26/5
+https://www.youtube.com/watch?v=j1hEia1rsIo
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 25/5
+https://www.youtube.com/watch?v=2k_sYidbv78
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 24/5
+https://www.youtube.com/watch?v=7js3-Ofabnc
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 23/5
+https://www.youtube.com/watch?v=rnCx-EmOKMw
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 22/5
+https://www.youtube.com/watch?v=35U3VIMLU3A
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 21/5
+https://www.youtube.com/watch?v=_YhJ2k3lUc8
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 20/5
+https://www.youtube.com/watch?v=cy6StUhpvO8
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 19/5
+https://www.youtube.com/watch?v=XtNZ8mKtrEY
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 18/5
+https://www.youtube.com/watch?v=pHy23SWopZw
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 17/5
+https://www.youtube.com/watch?v=iSCLwN-zNkY
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 16/5
+https://www.youtube.com/watch?v=jT84Sn2gx7Q
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 15/5
+https://www.youtube.com/watch?v=fLMJfajKq9Y
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 14/5
+https://www.youtube.com/watch?v=qaGLCnRlmVQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 13/5
+https://www.youtube.com/watch?v=YJyunL1_Fcg
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 12/5
+https://www.youtube.com/watch?v=T4dWVbb0Iuk
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 11/5
+https://www.youtube.com/watch?v=lbFgxksfEwg
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 10/5
+https://www.youtube.com/watch?v=UNFAe9u9ZMI
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 09/5
+https://www.youtube.com/watch?v=hW6m5PFY3AM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 08/5
+https://www.youtube.com/watch?v=PO56nN9YFUQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 07/5
+https://www.youtube.com/watch?v=phTzSzz0-QE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 06/5
+https://www.youtube.com/watch?v=D7tQANwmhlA
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 05/5
+https://www.youtube.com/watch?v=zCmGe7-GYHQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 04/5
+https://www.youtube.com/watch?v=vGAfXt3i9Wc
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 03/5
+https://www.youtube.com/watch?v=U17ja16WhT8
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 02/5
+https://www.youtube.com/watch?v=_xNwoF6AAsc
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 01/5
+https://www.youtube.com/watch?v=xKUNyoZ_usA
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 29/4
+https://www.youtube.com/watch?v=4h9pS8CLWAE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 28/4
+https://www.youtube.com/watch?v=5s2lmGJYLZU
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 27/4
+https://www.youtube.com/watch?v=x-K0fSvXA_k
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 26/4
+https://www.youtube.com/watch?v=VAkNx5aZRpQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 25/4
+https://www.youtube.com/watch?v=yaUtEtZD8eg
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 24/4
+https://www.youtube.com/watch?v=WFLUnUIOE1Y
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 23/4
+https://www.youtube.com/watch?v=KakhRFRBNV0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 22/4
+https://www.youtube.com/watch?v=m5zYjdBsEvo
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 21/4
+https://www.youtube.com/watch?v=HKc7uUl3StQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 20/4
+https://www.youtube.com/watch?v=za5qutRlP0k
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 19/4
+https://www.youtube.com/watch?v=BsKVCOEJTrE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 18/4
+https://www.youtube.com/watch?v=Pp45vkptfw0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 17/4
+https://www.youtube.com/watch?v=f2lGIE0If9Q
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 16/4
+https://www.youtube.com/watch?v=IiMNd34O338
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH15+/4
+https://www.youtube.com/watch?v=eIoHoQImDrg
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 15/4
+https://www.youtube.com/watch?v=-dYr6jLwNv8
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 14/4
+https://www.youtube.com/watch?v=R58Spg0auio
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 13/4
+https://www.youtube.com/watch?v=ob6YyluCpeM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 12/4
+https://www.youtube.com/watch?v=lxRn0ZJzhQo
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 11/4
+https://www.youtube.com/watch?v=6FXiMvsnpUE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 10/4
+https://www.youtube.com/watch?v=_UwEziDxsOA
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 09/4
+https://www.youtube.com/watch?v=_HmZYU5_sSM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 08/4
+https://www.youtube.com/watch?v=VrPZCqN4Np4
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 07/4
+https://www.youtube.com/watch?v=v5vcc6vNIbE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 06/4
+https://www.youtube.com/watch?v=KsotzXYx1UM
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 05/4
+https://www.youtube.com/watch?v=MhoUmCSmxvU
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 04/4
+https://www.youtube.com/watch?v=L3C-US5djEw
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 03/4
+https://www.youtube.com/watch?v=UOUS95ICoOA
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 02/4
+https://www.youtube.com/watch?v=toWEJM3rf9k
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 01/4
+https://www.youtube.com/watch?v=qvNJg513mrk
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 34/3
+https://www.youtube.com/watch?v=bXhPnmko9yk
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 30/3
+https://www.youtube.com/watch?v=RiVvZsCWJEw
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 25/3
+https://www.youtube.com/watch?v=w0q-01ciC4k
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 24/3
+https://www.youtube.com/watch?v=DFsVkLFDnYQ
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 23/3
+https://www.youtube.com/watch?v=SeFxBCyD18g
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 22/3
+https://www.youtube.com/watch?v=9J3kVpJI0Nc
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 21/3
+https://www.youtube.com/watch?v=vpq_rpOnMWk
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 20/3
+https://www.youtube.com/watch?v=aZE8jeM-rM0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 19/3
+https://www.youtube.com/watch?v=kdG3I0h6PW0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 18/3
+https://www.youtube.com/watch?v=amyXvTgapl0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 17/3
+https://www.youtube.com/watch?v=qbwhWmj6MKY
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 16/3
+https://www.youtube.com/watch?v=VRzrX7qoe4w
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 15/3
+https://www.youtube.com/watch?v=FC8wU9TswR0
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 14/3
+https://www.youtube.com/watch?v=cia9k1vwpU4
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 13/3
+https://www.youtube.com/watch?v=ryHVEkGgj0s
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 11/3
+https://www.youtube.com/watch?v=kN6OlA99bxE
+#EXTINF:0 group-title="ALB VIDEO 2" tvg-logo="https://i.imgur.com/oZ54IN6.png",ÇKSH 09/3
+https://www.youtube.com/watch?v=EJLYOcjdm3s
+
+
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png", ** EGJELI ** 80
+https://www.youtube.com/watch?v=xqV2smWlhHY
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 79
+https://www.youtube.com/watch?v=OWm__UMJspo
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 78
+https://www.youtube.com/watch?v=aOY8W3kjIYE
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 77
+https://www.youtube.com/watch?v=vEeSjloeqDI
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 76
+https://www.youtube.com/watch?v=2ezD-NGGG4k
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 75
+https://www.youtube.com/watch?v=fOcQl5nxmo4
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 74
+https://www.youtube.com/watch?v=sTOHxx5Zabo
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 73
+https://www.youtube.com/watch?v=hIw-zBHqugg
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 72
+https://www.youtube.com/watch?v=nLsXQEB8LPQ
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 71
+https://www.youtube.com/watch?v=rQCJ_jQhXms
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 70
+https://www.youtube.com/watch?v=rM21f7qWvgo
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 69
+https://www.youtube.com/watch?v=m8H60qRwapI
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 68
+https://www.youtube.com/watch?v=dmRxgTrq2_0
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 67
+https://www.youtube.com/watch?v=4WcayGixv5k
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 66
+https://www.youtube.com/watch?v=TMv-SEllW8g
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 65
+https://www.youtube.com/watch?v=GWjQGfeyeV8
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 64
+https://www.youtube.com/watch?v=Mk4Gl7hYfqA
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 63
+https://www.youtube.com/watch?v=yXB7bbhWttc
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 62
+https://www.youtube.com/watch?v=Dpk9_jQISDs
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 61
+https://www.youtube.com/watch?v=8ffTeRdL4i8
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 60
+https://www.youtube.com/watch?v=d3mJRlUj3ZI
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 59
+https://www.youtube.com/watch?v=cS5M8iFdcAM
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 58
+https://www.youtube.com/watch?v=8MA-4pugqpw
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 57
+https://www.youtube.com/watch?v=2b-AbOi7vzk
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 56
+https://www.youtube.com/watch?v=HYCEQN3DppM
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 55
+https://www.youtube.com/watch?v=rzsIKhMFvVU
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 54
+https://www.youtube.com/watch?v=cJwEVVNVccU
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 53
+https://www.youtube.com/watch?v=4mJU07tnRUE
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 52
+https://www.youtube.com/watch?v=LcXru0rHwNg
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 51
+https://www.youtube.com/watch?v=DjRuux9BPbA
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 50
+https://www.youtube.com/watch?v=Q61GW_ErAjo
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 49
+https://www.youtube.com/watch?v=aie_g0-tzVs
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 48
+https://www.youtube.com/watch?v=3ejf5tAichE
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 47
+https://www.youtube.com/watch?v=KX1Zo75g2QM
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 46
+https://www.youtube.com/watch?v=rlQeCCogjWs
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 45
+https://www.youtube.com/watch?v=NPvC6G7yGXY
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 44
+https://www.youtube.com/watch?v=9mk2lcfLGyE
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 43
+https://www.youtube.com/watch?v=8WN1rU2d-yc
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 42
+https://www.youtube.com/watch?v=14zIDWJaflk
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 41
+https://www.youtube.com/watch?v=eaiB4p9rnX4
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 40
+https://www.youtube.com/watch?v=o0P3zYCpXHk
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 39
+https://www.youtube.com/watch?v=aNGcy3L8KHk
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 38
+https://www.youtube.com/watch?v=_3ySOPMflMs
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 37
+https://www.youtube.com/watch?v=rVsAXJFXmyw
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 36
+https://www.youtube.com/watch?v=JNGYjBk5nDQ
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 35
+https://www.youtube.com/watch?v=yJewZAxbC8E
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 34
+https://www.youtube.com/watch?v=M0xoR9kWMV8
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 33
+https://www.youtube.com/watch?v=tzNKNWydZ08
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 32
+https://www.youtube.com/watch?v=C4uaNuZBEts
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 31
+https://www.youtube.com/watch?v=S1HjJ3Q1jxc
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 30
+https://www.youtube.com/watch?v=KpTm5W_qJ4s
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 29
+https://www.youtube.com/watch?v=uBrEg6QqwMc
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 28
+https://www.youtube.com/watch?v=37RpNQkU3KM
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 27
+https://www.youtube.com/watch?v=GaE6SurwaOc
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 26
+https://www.youtube.com/watch?v=9Q-Q0nWr9uA
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 25
+https://www.youtube.com/watch?v=IdcdSP-lBQI
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 24
+https://www.youtube.com/watch?v=LL365de2Tj4
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 23
+https://www.youtube.com/watch?v=yK5HHAX9rO8
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 22
+https://www.youtube.com/watch?v=WmfbHOB-eg4
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 21
+https://www.youtube.com/watch?v=TiEGpfiQhNo
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 20
+https://www.youtube.com/watch?v=GqBAwyieygU
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 19
+https://www.youtube.com/watch?v=isfcIu9BwkU
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 18
+https://www.youtube.com/watch?v=4U69Gzxg02E
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 17
+https://www.youtube.com/watch?v=2p48Z4n2UX8
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 16
+https://www.youtube.com/watch?v=HP0g8ZNrLLQ
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 15
+https://www.youtube.com/watch?v=ry4PfRw-wHc
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 14
+https://www.youtube.com/watch?v=v4aEPkIACVw
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 13
+https://www.youtube.com/watch?v=fw6K_byLPno
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 12
+https://www.youtube.com/watch?v=ZN4hG36kqb4
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 11
+https://www.youtube.com/watch?v=jh8PkkTMKGQ
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 10
+https://www.youtube.com/watch?v=lgfF-Xe1blU
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 09
+https://www.youtube.com/watch?v=ZsV74gzCtX8
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 08
+https://www.youtube.com/watch?v=TQ78N2YET3c
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 07
+https://www.youtube.com/watch?v=v_JYibu0a6s
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 06
+https://www.youtube.com/watch?v=oTP15slqNTA
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 05
+https://www.youtube.com/watch?v=VNvBKm-6mDY
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 04
+https://www.youtube.com/watch?v=TzwZPOZVK6s
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 03
+https://www.youtube.com/watch?v=C4Od2ZFlj9Y
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 02
+https://www.youtube.com/watch?v=69F4Am0TkD4
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",EGJELI 01
+https://www.youtube.com/watch?v=PUunrFm-ijU
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",TRE PLEQTE 2
+https://www.youtube.com/watch?v=yZGiBv8y6vE
+#EXTINF:0 group-title="ALB VIDEO 3" tvg-logo="https://i.imgur.com/7dqmIsg.png",TRE PLEQTE 1
+https://www.youtube.com/watch?v=IdeZQU-INYA
+
+
+#EXTINF:0 group-title="IPTV GLOB 1",** TURKISH TV **
+https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR TLC" group-title="IPTV GLOB 1",tr TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR Star" group-title="IPTV GLOB 1",tr STAR TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR TEVE 2" group-title="IPTV GLOB 1",tr TEVE 2
+https://teve2.dogannet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR 360tv" group-title="IPTV GLOB 1",tr 360TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR NTV" group-title="IPTV GLOB 1",tr NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR KANAL 24" group-title="IPTV GLOB 1",tr KANAL 24
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR BURSA AS TV" group-title="IPTV GLOB 1",tr BURSA AS TV
+http://yayin3.canlitv.com:1935/canlitv/astv/iptvdelisi.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR DMAX" group-title="IPTV GLOB 1",tr DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR UçanKuş" group-title="IPTV GLOB 1",tr UçanKuş
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR Kral PoP" group-title="IPTV GLOB 1",tr Kral PoP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 tvg-language="tr" tvg-name="TR Kral TV" group-title="IPTV GLOB 1",tr Kral TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+
+
+#EXTINF:0 tvg-id=”deutsche-welle.de”group-title="IPTV GLOB 2", ** GERMAN TV **
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:0 tvg-id=”Kika.de”group-title="IPTV GLOB 2",de KiKA
+https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/index_1992_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id=”Wdr.de”group-title="IPTV GLOB 2",de WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+#EXTINF:0 tvg-id=”KroneHit.at”group-title="IPTV GLOB 2",de KRONEHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:0 tvg-id=”NDREvent1.de”group-title="IPTV GLOB 2",de NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:0 tvg-id=”HR.de”group-title="IPTV GLOB 2",de Hr
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_1800_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id=”Pearl.tv”group-title="IPTV GLOB 2",de Pearl
+http://enstyle-live.hls.adaptive.level3.net/ses/enstyle/stream3/streamPlaylist.m3u8
+#EXTINF:0 tvg-id=”RiC.de”group-title="IPTV GLOB 2",de RiC
+https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist.m3u8
+#EXTINF:0 tvg-id=”isar-tv.com”group-title="IPTV GLOB 2",de ISAR
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/master.m3u8
+#EXTINF:0 tvg-id=”Tagesschau.de”group-title="IPTV GLOB 2",de Tagesschau
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id=”TeleZiri.ch”group-title="IPTV GLOB 2",ch Tele Züri
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/0_josiatxf/format/applehttp/protocol/https/a.m3u8
+#EXTINF:0 tvg-id=”TeleM1.ch”group-title="IPTV GLOB 2",ch Tele M1
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8
+#EXTINF:0 tvg-id=”TeleBärn.ch”group-title="IPTV GLOB 2",ch Tele Bärn
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/index-s32.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 3",** ENGLISH TV **
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",au BBC WORLD NEWS 
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",au Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",au Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",ca TSC
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",ca The Weather
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk Bloomberg EU
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk Bloomberg EU Event
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk CGTN 
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk CGTN Documentary
+http://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk Ideal World
+https://live-isd.simplestreamcdn.com/idealworld/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk QVC
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk QVC Beauty
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk QVC Style
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk QVC Extra
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",uk TG 4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us 3 News
+http://mediaworks-i.akamaihd.net:80/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Bloomberg US
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Boston University TV
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us CBN 
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us CGTN Documentaries
+https://livedoc.cgtn.com/200d/prog_index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us CGTV
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us CSPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us CSPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us CSPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Fox 31
+http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Fox News Talk
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Globesville - New York Institute of Technology
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Greensboro TV
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us IndieWave 
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us The Florida Channel
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Texas Student TV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us Time Square New York (Earthcam)
+http://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us TWiT 4 
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us VTV Channel 6 Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us WCCA TV Worcester
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us WCCB News Charlotte
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",us WGN News Chicago
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",nz TV
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",nz TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",ir Oireachtas TV
+https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/chunklist_b1228000.m3u8
+#EXTINF:0 group-title="IPTV GLOB 3",ir TG4 
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 4", ** FRENCH TV **
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr ALSACE 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr BFM Business TV
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 4",fr Dici TV
+http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Djing Hits
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Djing Hot
+https://www.djing.com/tv/h-01-fta.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Djing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Gong TV
+http://51.254.215.79/appflux/gong/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Gulli TV
+http://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102=64000-video=900000.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr La Chaine Normande
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/list.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Normandie  (vlc)
+rtmp://live.lachainenormande.fr/live/lcn/livestream
+#EXTINF:0 group-title="IPTV GLOB 4",fr notélé
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr TVPI Bayonne
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",fr Vosges TV
+https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",ca Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",ca Francophonie 24
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",be Antenne Centre
+https://594a365b4a1b2.streamlock.net/matele/live/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 4",be Canal C
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5", ** ITALIC TV **
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it RAI Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it DMAX IT
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Antenna Tre Nordest
+http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Alto Adige TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it éTV Marche
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Fano TV
+http://live.sloode.com:1935/fanotv_live/43DA-3923-9C72-4E9F/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it FM Italia
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it m20 tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Primocanale
+http://msh0203.stream.seeweb.it/live//stream1.sdp/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it RTC Quarta Rete
+http://msh0232.stream.seeweb.it/live/flv:stream012.sdp/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Senato TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Studio 100 Puglia
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Super TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Telearena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it TeleChiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Telefriuli
+http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Teleromagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Teleromagna News
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Teleromagna Sport
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it TeleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it TelePavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",it Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Andalucia Turismo
+https://593fa17dec176.streamlock.net/csturismo/csturismo.stream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Canal 24 horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@583029/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Canal costa tv
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Canal Malaga
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es EiTB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Intereconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist2.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Real Betis Balompié TV
+https://cdnlive.shooowit.net/rbetislive/smil:television.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es tac 12
+https://liveingesta118.cdnmedia.tv//tac12live/smil:live.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es TeleMadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es TeleSafor
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es TV de Badalona
+http://liveingesta118.cdnmedia.tv//badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es TV Mediterraneo
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es TV Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es TVG Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",es Votv
+https://liveingesta118.cdnmedia.tv//votvlive/smil:live.smil/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 5",es REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",pt REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",pt Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",pt Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",pt Kuriakos Music
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 5",pt TV Mana 1
+http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 6", ** NORDIC TV **
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",se Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",se Himlen TV 7
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",se Kanal 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",dk DENMARK TV
+https://streaming.media.digicast.dk/clients_live/tv3/tv3_live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",dk KKR TV
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",dk TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",no NO TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",no Kanal 10
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",no MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",no TV Haugaland
+https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.qbrick.com/90216-cachelive0/smil:APPLETV/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 6",is N4 
+https://tv.vodafoneplay.is/n4/03.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 7",** DUTCH TV **
+https://media.streamone.net/hlslive/account=H6AAMOMZSU0W/livestream=DoZIqosIBJUy/DoZIqosIBJUy.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Dtv Uden
+https://ms2.mx-cd.net/tv/159-661277/DTV_Uden.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl EDE TV
+http://ms2.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl GO TV
+https://593aed234297b.streamlock.net/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl hk 13
+http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Klipkar TV
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl NH Gooi
+http://studiohilversum.6fm.nl:7007/hls/6fmtv.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Omroep Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Omroep Gelderland
+http://web.omroepgelderland.nl/live/livetv.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Omroep Venlo
+https://media.streamone.net/hlslive/account=lDJBNuobD5c2/livestream=2JJFDeYCdhw0/2JJFDeYCdhw0.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Omroep West
+https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl Open Rotterdam
+http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl TV Ellef
+http://cdn22d.streampartner.nl/tvellef/livestream/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",nl ZFM 1 (vlc)
+rtmp://kippingmultimediaal.nl:1935/live/ZFM1
+#EXTINF:0 group-title="IPTV GLOB 7",nl ZUID WEST TV
+http://media.streamone.net/hlslive/account=EbAIGq6LRMU2/livestream=9RBFKqaCTQ02/9RBFKqaCTQ02.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",be TVcom
+https://5a0b00d270652.streamlock.net/live/tvcom-live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",BEL RTL
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",BRUZZ
+https://hls-origin01-bruzz.cdn02.rambla.be/adliveorigin-bruzz/_definst_/AZwy8w.smil/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",City Music
+https://5592f056abba8.streamlock.net/citytv/citytv/chunklist_w2109328455.m3u8
+#EXTINF:0 group-title="IPTV GLOB 7",NRJ Hits TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+
+#EXTINF:0 group-title="IPTV GLOB 8", ** URALIC TV **
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",fi TV7 Himlen
+https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",fi TV7 Taevas
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Balaton TV
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Budapest Európa TV
+http://cloudfront44.lexanetwork.com:1730/HDE021/hls/livestream.sdp.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Kanizsa TV
+https://cloudfront44.lexanetwork.com:1440/HDE024/hls/livestream.sdp.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Kapos TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay016/hls/livestream.sdp.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Lóverseny közvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Music Channel
+http://1music.hu/1music.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Ózdi Városi TV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+#EXTINF:0 group-title="IPTV GLOB 8",hu Tatai TV
+https://cloudfront63.lexanetwork.com:1440/hlsrelay014/hls/livestream.sdp.m3u8
+
+#EXTINF:-1 tvg-name="HRT 1" group-title="IPTV GLOB 9", ** SLAVIC TV **
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",hr HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",hr HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",hr RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",hr Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",hr Televizija 5
+http://37.59.21.217:8809/live/tv5web.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",sk Joj
+https://nn.geo.joj.sk/live/joj-index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",sk Joj Family
+https://nn.geo.joj.sk/live/hls/family-540.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",sk Joj Plus
+https://nn.geo.joj.sk/live/jojplus-index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",sk TV Hram
+http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",sk WAU
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",ck Óčko
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",ck Óčko Expres
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",ck Óčko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/master.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",ck polar  (vlc)
+rtmp://stream.polar.cz/polar/polarlive-1
+#EXTINF:0 group-title="IPTV GLOB 9",ck Praha TV  (vlc)
+rtmp://stream.polar.cz/prahatv/prahatvlive-1
+#EXTINF:0 group-title="IPTV GLOB 9",ck Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",ck Senzi
+http://109.74.144.130/live/senzitest/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",ck ŠLAGR TV
+https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",ck ŠLAGR 2 TV
+https://stream-33.mazana.tv/slagr2.m3u
+#EXTINF:0 group-title="IPTV GLOB 9",ck tv morava  (vlc)
+http://stream.redigy.cz:1934/tvm.flv
+#EXTINF:0 group-title="IPTV GLOB 9",ck V1  (vlc)
+rtmp://stream.polar.cz/vctv/vctvlive-1
+#EXTINF:0 group-title="IPTV GLOB 9",ck Východoceská TV
+https://stream.polar.cz/vctv/vctvlive-2/manifest_w1967880673.mpd
+#EXTINF:0 group-title="IPTV GLOB 9",pl dla ciebie tv
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",pl Mango TV
+http://stream.mango.pl:1935/mango/_definst_/live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",pl Republika
+http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",pl Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",pl Stella  (vlc)
+rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive
+#EXTINF:0 group-title="IPTV GLOB 9",pl TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",pl TV Wielkopolska
+http://stream4.nadaje.com:15308/live/stream-1/chunklist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",pl TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:0 group-title="IPTV GLOB 9",pl TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",pl Twoja TV
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg Shukerov
+http://100automoto.tv:1935/100gaz/shukerov/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg Channel Mercedes
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg Alfa TV
+http://alfa.bg:1935/live/live/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg City TV
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg MM TV
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg MU-Vi TV
+http://edge15.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg This is Bulgaria 
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg Travel TV Bulgaria
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg TV Art
+http://83.222.173.94:1935/tvart/tvart/playlist.m3u8
+#EXTINF:0 group-title="IPTV GLOB 9",bg TV Plus
+http://141.136.14.18/kanal1/kanal1.m3u8
+
+
+
+
+
+
+
+http://albepg.com/epg/guide.xml
